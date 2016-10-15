@@ -1,4 +1,6 @@
-File create on October 11, 2016
+File created on October 11, 2016
 First line: Hello, World!
 Second line: Hello, hello, World!
 Third line: Triple hello, world!
+New line: Bonjour, monde!
+
